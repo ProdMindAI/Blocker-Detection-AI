@@ -15,11 +15,11 @@ Example:
 
 Linux/macOS (bash):
 ``` bash
-    export OPENAI_API_KEY="your_openai_api_key_here"
+export OPENAI_API_KEY="your_openai_api_key_here"
 ```
 Windows (PowerShell):
 ``` bash
-    setx OPENAI_API_KEY "your_openai_api_key_here"
+setx OPENAI_API_KEY "your_openai_api_key_here"
 ```
 
 Make sure to restart your terminal or IDE after setting the environment variable.
