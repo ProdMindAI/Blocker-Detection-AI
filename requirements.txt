@@ -1,0 +1,7 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+langchain==0.1.14
+openai==1.30.1
+faiss-cpu==1.7.4
+tqdm
+requests==2.31.0

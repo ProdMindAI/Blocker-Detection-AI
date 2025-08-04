@@ -1,0 +1,5 @@
+Our product roadmap includes quarterly releases focused on core feature improvements, user onboarding, and stakeholder feedback loops.
+
+The current version supports automated status reports and AI-generated product update summaries.
+
+Upcoming features include Slack and Jira integration, customizable update templates, and advanced metrics tracking.
