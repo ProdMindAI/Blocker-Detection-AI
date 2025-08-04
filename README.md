@@ -26,6 +26,7 @@ Make sure to restart your terminal or IDE after setting the environment variable
 Run App:
 ```bash
 uvicorn main:app --reload --port 8000
+```
 
 The `client.py` script provides a simple terminal interface to interact with the PMBuddy API.
 
@@ -35,3 +36,4 @@ Make sure you have installed the required dependencies, including `requests`:
 
 ```bash
 pip install -r requirements.txt
+```
