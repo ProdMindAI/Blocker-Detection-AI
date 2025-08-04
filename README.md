@@ -14,10 +14,13 @@ This application requires an OpenAI API key for the language model to function. 
 Example:
 
 Linux/macOS (bash):
+``` bash
     export OPENAI_API_KEY="your_openai_api_key_here"
-
+```
 Windows (PowerShell):
+``` bash
     setx OPENAI_API_KEY "your_openai_api_key_here"
+```
 
 Make sure to restart your terminal or IDE after setting the environment variable.
 
